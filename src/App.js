@@ -1,9 +1,10 @@
+import { PokemonForm } from "./components/PokemonForm";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
-      <div>yooo</div>
+      <PokemonForm />
     </div>
   );
 }
